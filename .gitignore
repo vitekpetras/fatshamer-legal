@@ -1,0 +1,15 @@
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby (if you ever run Jekyll locally)
+Gemfile.lock
+vendor/
+
+# OS / editor cruft
+.DS_Store
+.idea/
+.vscode/
+*.swp

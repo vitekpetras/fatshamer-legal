@@ -1,0 +1,27 @@
+title: Fatshamer — Právní dokumenty
+description: >-
+  Zásady ochrany osobních údajů a Podmínky použití pro Android aplikaci
+  Fatshamer (cz.fatshamer.app). Hostováno odděleně od privátního repozitáře
+  aplikace, jelikož GDPR (čl. 13/14) a Google Play vyžadují veřejně dostupné
+  právní dokumenty.
+theme: minima
+lang: cs
+locale: cs_CZ
+
+# All Markdown content lives at the root. No collections, no posts.
+
+# Don't ship repo-internal files to the rendered site.
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+# GitHub repo metadata — minima renders a footer link.
+github_username: vitekpetras
+
+# Permalinks — keep them stable; the Android app and Play Console link
+# directly to these slugs and must NOT break across edits.
+permalink: pretty
