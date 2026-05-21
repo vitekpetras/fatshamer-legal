@@ -21,7 +21,7 @@ Aplikace je poskytována **jako služba s bezplatným přístupem v aktuální v
 
 ## 2. Přijetí podmínek a věkový limit
 
-Instalací a používáním aplikace souhlasíš s těmito podmínkami a se [Zásadami ochrany osobních údajů](privacy_policy_cs.md). Pokud s nimi nesouhlasíš, **aplikaci neinstaluj a nepoužívej**.
+Instalací a používáním aplikace souhlasíš s těmito podmínkami a se [Zásadami ochrany osobních údajů](https://vitekpetras.github.io/fatshamer-legal/privacy-policy/). Pokud s nimi nesouhlasíš, **aplikaci neinstaluj a nepoužívej**.
 
 Aplikaci smíš používat, pokud je ti **alespoň 13 let**. Pokud je ti méně, můžeš ji používat pouze se souhlasem zákonného zástupce a jen v rozsahu, který český právní řád pro tvůj věk povoluje.
 
@@ -159,7 +159,7 @@ Po ukončení účtu platí odd. 8.3 Privacy Policy (co se s daty stane).
 
 ## 13. Změny podmínek
 
-Provozovatel může tyto podmínky aktualizovat. **Materiální změny** oznámíme v aplikaci minimálně **30 dní** před účinností. Pokrok ve verzování je vidět v hlavičce dokumentu; historii najdeš na <!-- TODO: doplnit URL na public hosting -->.
+Provozovatel může tyto podmínky aktualizovat. **Materiální změny** oznámíme v aplikaci minimálně **30 dní** před účinností. Pokrok ve verzování je vidět v hlavičce dokumentu; historii najdeš na <https://github.com/vitekpetras/fatshamer-legal/commits/main>.
 
 Pokud s novou verzí nesouhlasíš, můžeš v období oznámení účet smazat a/nebo aplikaci odinstalovat.
 

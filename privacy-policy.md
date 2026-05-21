@@ -211,7 +211,7 @@ Aplikace si vyžaduje tato oprávnění:
 
 ## 10. Změny zásad
 
-Materiální změny ti oznámíme přímo v aplikaci (banner v Nastavení) minimálně **30 dní** před účinností. Historii verzí najdeš na <!-- TODO: doplnit URL na public hosting --> .
+Materiální změny ti oznámíme přímo v aplikaci (banner v Nastavení) minimálně **30 dní** před účinností. Historii verzí najdeš na <https://github.com/vitekpetras/fatshamer-legal/commits/main>.
 
 ## 11. Kontakt
 
