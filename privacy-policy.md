@@ -27,7 +27,7 @@ Tyto zásady popisují **přesně** jaká data Fatshamer sbírá, kam je posíl�
 - Pády aplikace posíláme do **Sentry** (DE region).
 - Anonymní událostní telemetrii (kdy přišla notifikace, jaký byl drift) posíláme do **PostHog** (EU host).
 - **Neprodáváme tvá data.** Nepoužíváme reklamní SDK, neděláme remarketing.
-- Můžeš si svá data kdykoli **stáhnout** (Nastavení → Profil → Exportovat moje data) <!-- TODO GPLAY_5: link export flow path -->.
+- Můžeš si svá data kdykoli **stáhnout** (Nastavení → Profil → Exportovat moje data).
 - Můžeš svůj **účet kdykoli smazat** (Nastavení → Účet → Smazat účet).
 
 ## 2. Kdo je správcem údajů
@@ -170,7 +170,7 @@ Máš následující práva, která můžeš **kdykoli a bezplatně** uplatnit:
 
 ### 8.1 Právo na přístup a přenositelnost (čl. 15, 20)
 
-V aplikaci v **Nastavení → Profil → Exportovat moje data** <!-- TODO GPLAY_5: link path --> si můžeš stáhnout strojově čitelný JSON se všemi tvými daty (profil, rozvrhy, tréninky, hodnocení, vlastní hlášky, historie zobrazení).
+V aplikaci v **Nastavení → Profil → Exportovat moje data** si můžeš stáhnout strojově čitelný JSON se všemi tvými daty (profil, rozvrhy, tréninky, hodnocení, vlastní hlášky, denní souhrny, historie zobrazení). Soubor uložíš přes systémový dialog (Stažené, Disk, …).
 
 ### 8.2 Právo na opravu (čl. 16)
 
